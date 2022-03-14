@@ -1,4 +1,4 @@
-Cara Membuta HTMl Dasar
+Cara Membuat HTMl Dasar
 step 1 masukan code Html di bawah ini
 ![Screenshot (119)](https://user-images.githubusercontent.com/73973590/158181660-28b142f5-0d4c-4242-8123-aca4d339f436.png)
 Step 2 masukan code isi paragraf pada Html
