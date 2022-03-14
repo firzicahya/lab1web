@@ -1,7 +1,7 @@
 Cara Membuat HTMl Dasar
 
 
-step 1 masukan code Html di bawah ini
+Step 1 masukan code Html di bawah ini
 ![Screenshot (119)](https://user-images.githubusercontent.com/73973590/158181660-28b142f5-0d4c-4242-8123-aca4d339f436.png)
 Step 2 masukan code isi paragraf pada Html
 ![Screenshot (128)](https://user-images.githubusercontent.com/73973590/158182215-a0383064-9209-45d2-b1ee-f122fda4fe56.png)
