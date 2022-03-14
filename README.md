@@ -8,7 +8,7 @@ Step 2 masukan code isi paragraf pada Html
 Hasil tampilan code tersebut 
 ![Screenshot (129)](https://user-images.githubusercontent.com/73973590/158182327-31bd1b91-8070-4abb-9338-e3095f9e6833.png)
 Step 3 cara menambahkan atribut Center,  Justify,  left, Right
-![Screenshot (143)](https://user-images.githubusercontent.com/73973590/158183147-eda1ccda-8f20-46a9-994c-a9e9dffafae1.png)dan Right pada isi paragraf Html
+![Screenshot (143)](https://user-images.githubusercontent.com/73973590/158183147-eda1ccda-8f20-46a9-994c-a9e9dffafae1.png)
 Atribut Center
 ![Screenshot (135)](https://user-images.githubusercontent.com/73973590/158182824-733f912a-fc93-4295-9bc3-a5288aec4dfa.png)
 Hasil tampilan code tersebut
